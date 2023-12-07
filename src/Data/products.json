@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "categoria": "Novedades",
+    "titulo": "Novedad 1",
+    "contenido": "Contenido de la novedad 1."
+  },
+  {
+    "id": "2",
+    "categoria": "Novedades",
+    "titulo": "Novedades 2",
+    "contenido": "Contenido de la novedad 2."
+  },
+  {
+    "id": "3",
+    "categoria": "Novedades",
+    "titulo": "Novedades 3",
+    "contenido": "Contenido de la novedad 3."
+  },
+  {
+    "id": "4",
+    "categoria": "Novedades",
+    "titulo": "Novedades 4",
+    "contenido": "Contenido de la novedad 4."
+  },
+  {
+    "id": "5",
+    "categoria": "Novedades",
+    "titulo": "Novedades 5",
+    "contenido": "Contenido de la novedad 5."
+  },
+  {
+    "id": "6",
+    "categoria": "Comunicaciones",
+    "titulo": "Comunicación 1",
+    "contenido": "Contenido de la comunicación 1."
+  },
+  {
+    "id": "7",
+    "categoria": "Comunicaciones",
+    "titulo": "Comunicación 2",
+    "contenido": "Contenido de la comunicación 2."
+  },
+  {
+    "id": "8",
+    "categoria": "Comunicaciones",
+    "titulo": "Comunicación 3",
+    "contenido": "Contenido de la comunicación 3."
+  },
+  {
+    "id": "9",
+    "categoria": "Comunicaciones",
+    "titulo": "Comunicación 4",
+    "contenido": "Contenido de la comunicación 4."
+  },
+  {
+    "id": "10",
+    "categoria": "Comunicaciones",
+    "titulo": "Comunicación 5",
+    "contenido": "Contenido de la comunicación 5."
+  },
+  {
+    "id": "11",
+    "categoria": "Comunicaciones Generales",
+    "titulo": "Comunicación General 1",
+    "contenido": "Contenido de la comunicación general 1."
+  },
+  {
+    "id": "12",
+    "categoria": "Comunicaciones Generales",
+    "titulo": "Comunicación General 2",
+    "contenido": "Contenido de la comunicación general 2."
+  },
+  {
+    "id": "13",
+    "categoria": "Comunicaciones Generales",
+    "titulo": "Comunicación General 3",
+    "contenido": "Contenido de la comunicación general 3."
+  },
+  {
+    "id": "14",
+    "categoria": "Comunicaciones Generales",
+    "titulo": "Comunicación General 4",
+    "contenido": "Contenido de la comunicación general 4."
+  },
+  {
+    "id": "15",
+    "categoria": "Comunicaciones Generales",
+    "titulo": "Comunicación General 5",
+    "contenido": "Contenido de la comunicación general 5."
+  },
+  {
+    "id": "16",
+    "categoria": "Gacetillas",
+    "titulo": "Gacetilla 1",
+    "contenido": "Contenido de la gacetilla 1."
+  },
+  {
+    "id": "17",
+    "categoria": "Gacetillas",
+    "titulo": "Gacetilla 2",
+    "contenido": "Contenido de la gacetilla 2."
+  },
+  {
+    "id": "18",
+    "categoria": "Gacetillas",
+    "titulo": "Gacetilla 3",
+    "contenido": "Contenido de la gacetilla 3."
+  },
+  {
+    "id": "19",
+    "categoria": "Gacetillas",
+    "titulo": "Gacetilla 4",
+    "contenido": "Contenido de la gacetilla 4."
+  },
+  {
+    "id": "20",
+    "categoria": "Gacetillas",
+    "titulo": "Gacetilla 5",
+    "contenido": "Contenido de la gacetilla 5."
+  }
+]
